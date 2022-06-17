@@ -10,7 +10,7 @@ const SignUp = () => {
         <ModalHeader></ModalHeader>
       </Modal>
       <button type="button" className="sign mt-3" variant="dark" onClick={() => setmodal(true)}>
-        Click Me!
+        Submit!
       </button>
     </>
   );

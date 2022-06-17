@@ -105,7 +105,7 @@ const SignUp = () => {
         variant="dark"
         onClick={toggle}
       >
-        Click Me!
+        Register Here!
       </button>
     </>
   );
@@ -120,7 +120,7 @@ function App() {
       <div className="App">
         <div className="App-header">
           <h1 className="heading">
-            We are launching soon, <br /> something big is coming
+            We are launching soon! <br /> something big is coming
           </h1>
 
           <div>
