@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+}
+
+
+
+
+
+.App-header {
+  background-color: #1F1874 ;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+
+}
+
+.pop{
+  background: black;
+  
+}
+
+
+.heading{
+text-transform: uppercase;
+font-weight: 400;
+}
+
+span img{
+  width: 250px;
+  height: auto;
+  padding: 20px;
+}
+
+
+span img:hover{
+  cursor: pointer;
+}
+
+.sign{
+  border: 1px solid white !important;
+  color: white !important;
+  padding: 20px 60px !important;
+  font-size: 20px !important;
+  background-color: #49D3CE !important;
+  border-radius: 10px;
+}
+
+.form-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+ 
+} 
+
+.in{
+  margin:20px
+}
